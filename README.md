@@ -16,8 +16,11 @@ Além disso, o projeto incluiu o uso do Git e a criação de um repositório no 
 Os arquivos incluídos no repositório são:
 
 1_answer_ricardo_santos.sql: arquivo com as consultas SQL utilizadas para responder a 1° pergunta.
+
 2_answer_ricardo_santos.sql: arquivo com as consultas SQL utilizadas para responder a 2° pergunta.
+
 3_answer_ricardo_santos.sql: arquivo com as consultas SQL utilizadas para responder a 3° pergunta.
+
 README.md: arquivo com informações sobre o projeto e instruções de uso.
 
 Para executar o projeto, basta clonar o repositório e rodar os scripts .sql em um ambiente PostgreSQL.
